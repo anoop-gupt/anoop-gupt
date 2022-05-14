@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Anoop Gupta. Frontend Architect @ Publicis Sapient, London, UK.
 
 <!--
 **anoop-gupt/anoop-gupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
